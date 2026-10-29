@@ -1,6 +1,16 @@
 export default function Footer() {
     return (
-                <h1>Text goes here!!</h1>
+        <footer>
+            <nav aria-label="social-media">
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+
+                </ul>
+            </nav>
+        </footer>
 
     )
 }
