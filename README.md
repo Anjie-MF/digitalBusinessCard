@@ -1,16 +1,88 @@
-# React + Vite
+# Digital Business Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- brief description of project and its purpose. -->
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<!-- What is this project? Who is it designed for? What problem does it solve? -->
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- [ ] <!-- Feature 1 -->
+- [ ] <!-- Feature 2 -->
+- [ ] <!-- Feature 3 -->
 
-## Expanding the ESLint configuration
+## Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone <repository-url>
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd <project-directory>
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## Project Structure
+
+<!-- Briefly describe the important files and directories. -->
+
+## What I Learned
+
+<!-- Document the React concepts, technical skills, and lessons learned. -->
+
+## Challenges and Solutions
+
+<!-- Describe a challenge you encountered and how you approached solving it. -->
+
+## Future Improvements
+
+<!-- List features or improvements you may want to implement later. -->
+
+## Live Demo
+
+<!-- Add your deployed project URL when available. -->
+
+## Acknowledgments
+
+- Scrimba — Learn React (Static Pages)
+
+## Author
+
+Anjelica May-Farmer
+
+- Portfolio: [Anjelica May-Farmer](https://anjelica-mf.vercel.app/)
+- LinkedIn: [Anjelica May-Farmer](https://www.linkedin.com/in/anjelicamayfarmer/)
+
